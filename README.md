@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a motivated engineering graduate from Greece looking to combine my materials science skills with machine learning towards impactful projects. 
+I'm a motivated engineering graduate from Greece looking to combine my materials science skills with machine learning towards developing sustainable and impactful projects. 
 
 ## 🛠 Tech Stack
 
