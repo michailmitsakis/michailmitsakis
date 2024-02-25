@@ -26,4 +26,4 @@ I'm a motivated engineering graduate from Greece looking to combine my materials
 
 ## 🤝 Connect
 
-Reach out to me on [LinkedIn](https://www.linkedin.com/in/michael-mitsakis/) or my [E-mail](mitsakismichail@gmail.com)!
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/michail-mitsakis/) or my [E-mail](mitsakismichail@gmail.com)!
