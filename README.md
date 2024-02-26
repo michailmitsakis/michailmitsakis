@@ -8,7 +8,7 @@ I'm a motivated engineering graduate from Greece looking to combine my materials
 
 **Languages:** Python
 
-**Python Libraries:** NumPy, Pandas, Scikit-Learn, fastai, PyTorch for Bayesian Optimization (Dragonfly, Ax)
+**Python Libraries:** NumPy, Pandas, Scikit-Learn, fastai, PyTorch for Bayesian Optimization (Dragonfly, Ax, BayBE)
 
 **Large Language Models:** Experience with prompt engineering for large language models
 
