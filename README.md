@@ -2,15 +2,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a motivated engineering graduate from Greece looking to combine my materials science skills with machine learning towards developing sustainable and impactful projects. 
+I'm a motivated engineering graduate from Greece looking to combine my materials science skills with machine learning towards developing sustainable and impactful projects in materials informatics and towards combatting climate change. 
 
 ## 🛠 Tech Stack
 
 **Languages:** Python
 
-**Python Libraries:** NumPy, Pandas, Scikit-Learn, fastai, PyTorch for Deep Learning, PyTorch for Bayesian Optimization (Dragonfly, Ax, BayBE)
+**Python Libraries:** NumPy, Pandas, Scikit-Learn, fastai, PyTorch for Deep Learning, Bayesian Optimization - (Dragonfly, Ax, BayBE, Honegumi, GPax, Pyro), JAX/Flax
 
-**Large Language Models:** Experience with prompt engineering for large language models
+**Large Language Models:** Experience with prompt engineering for large language models.
 
 **Other:** PowerBI, PostgreSQL, MATLAB
 
