@@ -10,7 +10,7 @@ I'm a motivated engineer and energy consultant from Greece looking to combine my
 
 **Python Libraries:** NumPy, Pandas, Scikit-Learn, fastai, PyTorch for Deep Learning, Bayesian Optimization - (Dragonfly, Ax, BayBE, Honegumi, GPax, Pyro), JAX/Flax
 
-**Large Language Models:** Experience with prompt engineering for large language models.
+**Large Language Models:** Experienced in prompt engineering with LLMs. Integration with MCP Server and Client configurations.
 
 **Other:** PowerBI, PostgreSQL, MATLAB
 
