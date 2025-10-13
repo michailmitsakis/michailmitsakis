@@ -8,7 +8,9 @@ I'm a motivated engineer and business consultant in the energy sector, experienc
 
 **Languages:** Python
 
-**Python Libraries:** NumPy, Pandas, Scikit-Learn, fastai, PyTorch, JAX/Flax, **Bayesian Optimization packages**: Dragonfly, Ax, BayBE, Honegumi, GPax, Pyro
+**Libraries:** Numpy, Pandas, Scikit-Learn, fastai, PyTorch, JAX/Flax
+
+**Bayesian Optimization**: Dragonfly, Ax, BayBE, Honegumi, GPax, Pyro
 
 **Large Language Models:** Context and prompt engineering with LLMs. Integration with MCP Server and Client configurations, Ollama and OpenWebUI.
 
