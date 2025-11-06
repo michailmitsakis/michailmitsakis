@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Michael
+# Hi there 👋, I'm Michalis
 
 ## 👨‍💻 About Me
 
