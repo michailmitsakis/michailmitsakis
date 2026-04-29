@@ -7,11 +7,17 @@ I'm a motivated engineer and business consultant in the energy sector, experienc
 ## 🛠 Tech Stack
 
 **Languages:** Python
+
 **Libraries:** Numpy, Pandas, Scikit-Learn, fastai, PyTorch, JAX/Flax
+
 **Bayesian Optimization**: Dragonfly, Ax, BayBE, Honegumi, GPax, Pyro
-**AI/LLMs:** Context engineering. Experience with local workflows (RAG using Ollama and OpenWebUI), agent harnesses (Hermes, Claude Code, Open Code) and associated MCPs & plugins to improve functionality.
+
+**AI/LLMs:** Context engineering. Experience with local workflows (RAG using Ollama/LMStudio/AnythingLLM and OpenWebUI), agent harnesses (Hermes, Claude Code, Open Code) and associated MCPs & plugins to improve functionality.
+
 **Databases:** Qdrant, PostgreSQL
+
 **IDEs:** Cursor, VSCode
+
 **Other:** Docker, Git, PowerBI, MATLAB
 
 ## 🤝 Connect
