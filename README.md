@@ -12,11 +12,11 @@ I'm a motivated engineer and business consultant in the energy sector, experienc
 
 **Bayesian Optimization**: Dragonfly, Ax, BayBE, Honegumi, GPax, Pyro
 
-**AI/LLMs:** Context & harness engineering. Experience with local workflows (RAG using Ollama/LMStudio/AnythingLLM and OpenWebUI) and associated custom MCPs & plugins.
+**AI/LLMs:** Context & harness engineering. Experience with local agentic workflows (e.g., AnythingLLM, RAG using Ollama and OpenWebUI) and associated MCP, skill and prompt optimization.
 
-**Databases:** Qdrant, PostgreSQL
+**Databases:** Qdrant, ChromaDB, PostgreSQL
 
-**IDEs:** Cursor, VSCode
+**IDEs:** Cursor, VSCode, Zed, OpenCode
 
 **Other:** Docker, Git, PowerBI, MATLAB
 
