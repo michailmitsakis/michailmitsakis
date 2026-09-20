@@ -12,11 +12,11 @@ I'm a motivated engineer and business consultant in the energy sector, experienc
 
 **Bayesian Optimization**: Dragonfly, Ax, BayBE, Honegumi, GPax, Pyro
 
-**AI/LLMs:** Context & harness engineering. Experience with local agentic workflows (e.g., OpenWebUI, "AnythingLLM", "Local Deep Research", RAG assistant on personal knowledge base "notion-second-brain" based on quantized Ollama models), associated evals and memory management, as well as MCP, skill and prompt optimization.
+**AI/LLMs:** Context & harness engineering. Experience with local agentic workflows (e.g., OpenWebUI, "AnythingLLM", "Local Deep Research", RAG assistant on personal knowledge base "notion-second-brain" based on quantized Ollama models, AI-aided development of "catalyst-kg-agent" repo), associated evals and memory management, as well as MCP, skill and prompt optimization.
 
 **Databases:** Qdrant, ChromaDB, PostgreSQL
 
-**IDEs:** Cursor, VSCode, Zed, OpenCode
+**IDEs:** OpenCode, VSCode, Cursor, Zed
 
 **Other:** Docker, Git, PowerBI, MATLAB
 
