@@ -78,7 +78,7 @@ Engineer and business consultant in the energy sector, working at the intersecti
   <a href="https://github.com/dragonfly/dragonfly"><img src="https://img.shields.io/badge/Dragonfly-0D9488?style=for-the-badge" alt="Dragonfly"/></a>
 </p>
 
-**AI / LLMs & Agents**
+**AI / LLMs & Agents - Context &amp; harness engineering · RAG pipelines · Evals · Agent memory · MCP, skills &amp; prompt optimization**
 
 <p>
   <a href="https://ollama.com"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/></a>
@@ -89,8 +89,6 @@ Engineer and business consultant in the energy sector, working at the intersecti
   <a href="https://github.com/LearningCircuit/local-deep-research"><img src="https://img.shields.io/badge/Local%20Deep%20Research-111111?style=for-the-badge" alt="Local Deep Research"/></a>
   <a href="https://mlflow.org"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/></a>
 </p>
-
-<h4>Context &amp; harness engineering · RAG pipelines · Evals · Agent memory · MCP, skills &amp; prompt optimization</h3>
 
 **Databases**
 
