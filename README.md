@@ -90,7 +90,7 @@ Engineer and business consultant in the energy sector, working at the intersecti
   <a href="https://mlflow.org"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/></a>
 </p>
 
-<h3>Context &amp; harness engineering · RAG pipelines · Evals · Agent memory · MCP, skills &amp; prompt optimization</h3>
+<h4>Context &amp; harness engineering · RAG pipelines · Evals · Agent memory · MCP, skills &amp; prompt optimization</h3>
 
 **Databases**
 
