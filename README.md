@@ -22,7 +22,7 @@ Engineer and business consultant in the energy sector, working at the intersecti
 
 - ⚡ Specialized in **electrochemistry, Bayesian optimization and AI-driven materials discovery**
 - 🤖 Building **local-first agentic AI**: RAG, evals, memory, MCP and prompt/context engineering
-- 🎯 Goal-driven generalist who enjoys collaborative teams and creative solutions to hard problems
+- 🎯 Fundamentally cross-disciplinary, mission-driven generalist who enjoys collaborative teams and creative solutions to hard problems
 - 🌍 Here to contribute to the green transition
 
 ---
