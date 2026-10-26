@@ -18,9 +18,9 @@
 
 ## 👨‍💻 About Me
 
-Engineer and business consultant in the energy sector, working at the intersection of **industrial decarbonization**, **clean hydrogen** and **AI for materials discovery**. My background is in electrochemistry (MSc thesis on electrodeposited catalysts for the hydrogen evolution reaction), and I now build ML and agentic tools that speed up R&D for low-carbon technologies, from catalyst screening to closed-loop optimization.
+Engineer and business consultant in the energy sector, working at the intersection of **industrial decarbonization** and **AI for materials discovery**. My background is in electrochemistry (MSc thesis on electrodeposited catalysts for the hydrogen evolution reaction), and I now build ML and agentic tools that speed up R&D for low-carbon technologies, from catalyst screening to closed-loop optimization.
 
-- ⚡ Specialized in **electrochemistry, green hydrogen and catalyst discovery & optimization**
+- ⚡ Specialized in **electrochemistry, Bayesian optimization and AI-driven materials discovery**
 - 🤖 Building **local-first agentic AI**: RAG, evals, memory, MCP and prompt/context engineering
 - 🎯 Goal-driven generalist who enjoys collaborative teams and creative solutions to hard problems
 - 🌍 Here to contribute to the green transition
