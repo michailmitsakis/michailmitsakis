@@ -31,6 +31,7 @@ Engineer and business consultant in the energy sector, working at the intersecti
 
 | Project | What it does |
 |---|---|
+| 🧪 **[SALEM](https://github.com/michailmitsakis/kg_osi_26)** | SALEM gives literature-mining AI agents a way to check their own work: a Gaussian process predicts a trusted measured property (here, the PL peak of hybrid perovskites) from what the agent extracts, and the agent keeps rewriting its questions and database queries to lower that prediction error, in a self-reinforcing loop. |
 | 🧪 **[catalyst-kg-agent](https://github.com/michailmitsakis/catalyst-kg-agent)** | Knowledge-graph-grounded, cost-aware multi-agent system for green hydrogen catalyst screening on Materials Project data. Uses MACE & CGCNN surrogates, Bayesian optimization, pydantic-ai agents and MLflow tracking. |
 | 🧠 **[notion-second-brain](https://github.com/michailmitsakis/notion-second-brain)** | Fully local RAG agent over my Notion workspace. Hybrid dense + sparse retrieval, cross-encoder reranking, Qdrant, quantized Ollama models and an eval harness with anchored rubrics. |
 
